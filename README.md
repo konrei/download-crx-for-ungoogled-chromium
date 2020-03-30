@@ -10,11 +10,15 @@ You can get tidy from here: https://github.com/htacg/tidy-html5 or http://www.ht
 
 # How To
 
-1. Enter a chrome extension ID > cjpalhdlnbpafiamejdnhcphjbkeiagm
+1. Make it executable > $ sudo chmod +x ./crx.sh
+
+2. Run > ./crx.sh or sudo ./crx.sh
+
+3. Enter a Chrome extension ID > cjpalhdlnbpafiamejdnhcphjbkeiagm
 
 _chrome.google.com/webstore/detail/ublock-origin/**cjpalhdlnbpafiamejdnhcphjbkeiagm**_
 
-2. Enter your Chromium version > 80.0
+4. Enter your Chromium version > 80.0
 
 _Version **80.0**.3987.122_
 
