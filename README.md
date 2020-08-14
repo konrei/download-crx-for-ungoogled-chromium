@@ -8,6 +8,10 @@ Download chrome extensions from terminal.
 
 You can get tidy from here: https://github.com/htacg/tidy-html5 or http://www.html-tidy.org/
 
+OR
+
+You can just disable tidy in the script if you don't care about the file naming.
+
 # How To
 
 1. Make it executable > $ sudo chmod +x ./crx.sh
